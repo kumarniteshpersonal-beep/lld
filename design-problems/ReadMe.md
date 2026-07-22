@@ -1,6 +1,7 @@
 ## LLD Problems:
 
 1. ### [Parking Lot System](./parking-lot/ReadMe.md)
+2. ### [ATM Machine](./atm-machine/ReadMe.md)
 
 ## LLD Interview Framework
 
