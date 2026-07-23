@@ -1,47 +1,20 @@
 ## LLD Problems:
 
-1. ### [Parking Lot System](./parking-lot/ReadMe.md)
-2. ### [ATM Machine](./atm-machine/ReadMe.md)
+1. [Parking Lot System](./parking-lot/ReadMe.md)
+2. [ATM Machine](./atm-machine/ReadMe.md)
+3. [Snake & Ladder Game](./snake-ladder/ReadMe.md)
 
 ## LLD Interview Framework
 
-Requirements
-<br>
-        ↓
-<br>
-Classes
-<br>
-        ↓
-<br>
-Responsibilities
-<br>
-        ↓
-<br>
-Relationships
-<br>
-        ↓
-<br>
-Variation Points
-<br>
-        ↓
-<br>
-Design Patterns
-<br>
-        ↓
-<br>
-UML
-<br>
-        ↓
-<br>
-Implementation
-<br>
-        ↓
-<br>
-Extensibility
-<br>
-        ↓
-<br>
-Concurrency
+1. Requirements
+2. Classes
+3. Responsibilities
+4. Relationships
+5. Variation Points
+6. Design Patterns
+7. Implementation
+8. Improvements
+9. Concurrency
 
 ## Time Distribution
 
