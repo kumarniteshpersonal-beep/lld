@@ -3,6 +3,8 @@
 1. [Parking Lot System](./parking-lot/ReadMe.md)
 2. [ATM Machine](./atm-machine/ReadMe.md)
 3. [Snake & Ladder Game](./snake-ladder/ReadMe.md)
+4. [Logging Framework](./logging-framework/ReadMe.md)
+5. [Vending Machine](./vending-machine/ReadMe.md)
 
 ## LLD Interview Framework
 
