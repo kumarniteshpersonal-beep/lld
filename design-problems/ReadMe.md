@@ -5,6 +5,7 @@
 3. [Snake & Ladder Game](./snake-ladder/ReadMe.md)
 4. [Logging Framework](./logging-framework/ReadMe.md)
 5. [Vending Machine](./vending-machine/ReadMe.md)
+6. [Car Rental System](./car-rental/ReadMe.md)
 
 ## LLD Interview Framework
 
