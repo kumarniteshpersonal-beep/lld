@@ -37,8 +37,6 @@
 
 ## Key Takeaway
 
-## Key Takeaway
-
 1. Used the `Strategy Pattern` for payment processing, allowing multiple payment methods (Credit Card, Wallet, etc.) to be added without modifying the reservation workflow, thus adhering to the `Open/Closed Principle`.
 2. Optimized car searching by maintaining an index (`cars_by_type`) and optimized reservation lookup by keeping reservations sorted for each car and using `binary search` to efficiently detect overlapping reservations and determine the insertion position.
 3. Used `fine-grained locking` (one lock per car) to ensure thread safety while maximizing concurrency. This allows multiple users to reserve different cars simultaneously while preventing concurrent reservations for the same car.
