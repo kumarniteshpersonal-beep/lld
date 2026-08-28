@@ -7,6 +7,7 @@
 5. [Vending Machine](./vending-machine/ReadMe.md)
 6. [Car Rental System](./car-rental/ReadMe.md)
 7. [Splitwise](./splitwise/ReadMe.md)
+8. [Elevator](./elevator/ReadMe.md)
 
 ## LLD Interview Framework
 
