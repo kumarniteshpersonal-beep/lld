@@ -34,7 +34,7 @@
 3. `Request`: Represents a request made to the elevator system. It contains the requested floor and the type of request.
 5. `ElevatorSelectionStrategy`: Interface that defines the contract for selecting the best elevator for a hall call. It follows the `Strategy Pattern`, allowing different elevator-selection algorithms to be plugged into the controller.
 
-**## Key Takeaway**
+## Key Takeaway
 
 1. Used the `Strategy Pattern` for elevator selection, allowing different algorithms for selecting an elevator to be introduced without modifying the `ElevatorController`, thus adhering to the `Open/Closed Principle`.
 2. Used a `SCAN-like scheduling approach` for elevator movement. An elevator continues moving in its current direction while there are pending requests ahead and reverses direction when there are no more requests in the current direction.
