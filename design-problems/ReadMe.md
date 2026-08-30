@@ -11,6 +11,8 @@
 9. [File System](./file-system/ReadMe.md)
 10. [Ticket Booking System](./ticker-booking-system/ReadMe.md)
 11. [Design Cache](./cache-system/ReadMe.md)
+12. [Design Rate Limiter]
+13. [Tic Tac Toe]
 
 ## LLD Interview Framework
 
