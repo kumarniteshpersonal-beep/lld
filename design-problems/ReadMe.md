@@ -8,6 +8,9 @@
 6. [Car Rental System](./car-rental/ReadMe.md)
 7. [Splitwise](./splitwise/ReadMe.md)
 8. [Elevator](./elevator/ReadMe.md)
+9. [File System](./file-system/ReadMe.md)
+10. [Ticket Booking System](./ticker-booking-system/ReadMe.md)
+11. [Design Cache](./cache-system/ReadMe.md)
 
 ## LLD Interview Framework
 
